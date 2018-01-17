@@ -1,6 +1,3 @@
-# Reference
-http://blog.csdn.net/u013421629/article/details/77649225
-https://mp.weixin.qq.com/s/J9vjaoClzBbR4oigusNdpw
 
 # genCaptcha
 
@@ -25,4 +22,10 @@ https://mp.weixin.qq.com/s/J9vjaoClzBbR4oigusNdpw
 
     可以从`bg_img`中选取背景图片。
 
-    参考：https://github.com/chineseocr/chinese-ocr/issues/4
+# Reference
+
+    http://blog.csdn.net/u013421629/article/details/77649225
+
+    https://mp.weixin.qq.com/s/J9vjaoClzBbR4oigusNdpw
+    
+    https://github.com/chineseocr/chinese-ocr/issues/4
