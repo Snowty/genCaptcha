@@ -14,4 +14,13 @@ https://mp.weixin.qq.com/s/J9vjaoClzBbR4oigusNdpw
 
 # genRandChar
 
-这个文件比较奇葩，纯属个人的工作需求写的脚本...
+    这个文件比较奇葩，纯属个人的工作需求写的脚本...
+
+
+# genFromText
+
+    读取`text`文件夹下的文本，从中选出固定长度的文本，作为验证码上面的文字
+
+# genFromText_bgpic
+
+    可以从`bg_img`中选取背景图片。
