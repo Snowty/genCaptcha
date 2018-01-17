@@ -1,5 +1,6 @@
 #coding:utf-8
-##绘制图像
+#   绘制图像
+#   reference:https://github.com/chineseocr/chinese-ocr/issues/4
 from PIL import Image, ImageDraw, ImageFont
 import glob
 import random
